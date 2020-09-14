@@ -6,8 +6,6 @@ A program that simply calculates the running time of your program!
  Description: preforms multiplication of array indices and calculates the elapsed time of the program
  Date: July 29, 2020
  Author: Nour Elgawish
- AU Student ID: 3480626
- Version: 1.0
  Copyright: 2020 Nour Elgawish
 */
 
@@ -17,8 +15,6 @@ A program that simply calculates the running time of your program!
  Program Purpose:
      This program uses the ctime library to calculate the elapsed time of 10000 multiplications. The multiplications are being derived from multiplying the indices of 2 arrays, each with 10000 indices.
 
- 
- Note: in Cygwin, main must return type int
  
   Classes: none
     
